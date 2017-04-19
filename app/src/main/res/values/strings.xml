@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SelfDevelopmentProject</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name</string>
+    <string name="details_info">Details Information</string>
+    <string name="info">Please Give your information:</string>
+    <string name="position">Position</string>
+    <string name="tittle">Tittle</string>
+    <string name="details">details</string>
+</resources>
